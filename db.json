@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": "fb91",
+      "name": "bhargav",
+      "roll": "student",
+      "class": "full stack development"
+    },
+    {
+      "id": "f52f",
+      "name": "vraj",
+      "roll": "student",
+      "class": "full stack development"
+    },
+    {
+      "id": "b742",
+      "name": "shubham",
+      "roll": "student",
+      "class": "full stack development"
+    },
+    {
+      "id": "8a70",
+      "name": "Bhavini",
+      "roll": "student",
+      "class": "full stack development"
+    },
+    {
+      "id": "460f",
+      "name": "Unatti",
+      "roll": "designer",
+      "class": "UI/UX"
+    }
+  ]
+}
